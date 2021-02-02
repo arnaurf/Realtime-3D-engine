@@ -1,10 +1,3 @@
-COMPILING IN LINUX
+DATA FILES CAN BE DOWNLOADED FROM https://drive.google.com/file/d/1h_Oj47Ar0oUp4Nqo6V4srpO5uv3gAIpD/view?usp=sharing
+JUST UNZIP FILES INSIDE /data FOLDER
 ****************************
-
-Remember to install the libraries:
-
-sudo apt-get install libsdl2-dev freeglut3 freeglut3-dev
-
-and then just use the makefile:
-
-make
