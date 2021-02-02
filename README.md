@@ -5,6 +5,7 @@ PROFESSOR:
 Javier Agenjo
 
 Developed by:
+
 Arnau Ruiz
 Email: arnau.ruiz01@estudiant.upf.edu
 
