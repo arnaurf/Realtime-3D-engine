@@ -1,5 +1,5 @@
 # Realtime-3D-engine
-Small "3D engine" developed using Javi Agenjo's framework from Pompeu Fabra University.
+Small "3D engine" developed using Javi Agenjo's framework from Pompeu Fabra University, C++ and OpenGL shaders.
 
 PROFESSOR:
 Javier Agenjo
